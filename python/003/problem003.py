@@ -35,7 +35,6 @@ def isprime(n):
 
 b = []
 b = factor (600851475143)
-print  b
 a = 0
 for x in b:
    if (isprime(x) == 1):
