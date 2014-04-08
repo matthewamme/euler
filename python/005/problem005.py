@@ -14,7 +14,9 @@ def isdivis(n):
     else:
       return 1
 
-i=20
+#Start a number divisble by all primes (and largest divisor), reduces runtime
+i=20*19*17*13*11*7*5*3*2
+
 while(1):
    if (isdivis(i)):
       print i
