@@ -1,5 +1,5 @@
 """
-Project Euler Problem #011
+Project Euler Problem #013
 
 Work out the first ten digits of the sum of the following one-hundred
 50-digit numbers.
